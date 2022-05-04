@@ -60,11 +60,9 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
 </br>
 </a>
 
- </p>
- </br>
-
-
-
+</p>
+</br>
+</br>
 <p align="center" >  
   <a href="https://github.com/KellyCodex/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=KellyCodex&&show_icons=true&theme=radical"/>
