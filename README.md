@@ -1,13 +1,11 @@
 # Oh Hey! 👋
 
 <div align="center">
-<img hight="300" width="600" alt="GIF" align="center" src="https://user-images.githubusercontent.com/103770244/166723738-cc04ca6d-3aeb-4353-80cf-8e859c6e28fc.gif">
+<img hight="300" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/103770244/166743555-ea946023-f0a8-47de-8999-a62f5004c18f.gif">
 </div>
 
 </br>
 </br>
-</br>
-
 
 # About Me :
 
@@ -78,6 +76,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
 </br>
 </br>
 </br>
+
 </br>
 </br>
 </br>
