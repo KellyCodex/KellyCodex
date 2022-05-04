@@ -63,7 +63,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
 </p>
 </br>
 </br>
-<p align="center" >  
+<p align="left" >  
   <a href="https://github.com/KellyCodex/github-readme-stats"> 
    
 </br>
