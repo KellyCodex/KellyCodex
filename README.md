@@ -25,9 +25,6 @@
 
 </br>
 </br>
-</br>
-
-
 
 # Languages & Tools :
 </br>
@@ -44,9 +41,6 @@
 </p>
 </br>
 </br>
-</br>
-
-
 
 # Contact Me :
 
