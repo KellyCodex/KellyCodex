@@ -54,6 +54,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
  <img align="left" alt="Gmail" width="130" hight="100" src="https://user-images.githubusercontent.com/103770244/166725886-67f8724e-372f-4d88-9b1a-7601f513477c.png" />
 </a>
 <a href="https://www.linkedin.com/in/kellyheger/">
+ </br>
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://user-images.githubusercontent.com/103770244/166725894-df2d01c5-e819-4e24-b2cf-6a49f5c02be1.png" />
 </br>
 </br>
