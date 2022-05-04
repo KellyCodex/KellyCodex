@@ -9,7 +9,7 @@
 </br>
 
 
-# About Me 💬 :
+# About Me :
 
 ### ❄️I'm Kelly a Sec Ops Engineer from Minnesota❄️
 
@@ -31,7 +31,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools :
 </br>
 
 <p align="center">
