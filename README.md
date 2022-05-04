@@ -40,7 +40,6 @@
 <img src="https://user-images.githubusercontent.com/103770244/166725911-7011c7b6-4d9d-42af-ba34-8e95bc0330b3.png" alt="pc" width="100" hight="50">
 </p>
 </br>
-</br>
 
 # Contact Me :
 
@@ -62,7 +61,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
 </a>
 
  </p>
- 
+ </br>
 
 
 
@@ -72,7 +71,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
   </a>
   </p>
   </br>
-  </br>
+
   
   # ✨Thanks for stopping by ✨
   <div align="center">
