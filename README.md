@@ -1,4 +1,4 @@
-# Oh Hey! 👋
+# ✨Oh Hey ✨
 
 <div align="center">
 <img hight="300" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/103770244/166743555-ea946023-f0a8-47de-8999-a62f5004c18f.gif">
@@ -45,8 +45,6 @@
 # Contact Me :
 
 <p>
- </br>
-
 
 <img hight="320" width="450" align="right" alt="GIF" src="https://user-images.githubusercontent.com/103770244/166720458-ebe54efe-afee-44d3-be8c-f4053b6bc8dc.gif">
 
@@ -76,7 +74,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
   </br>
   </br>
   
-  # Thank you for stopping by!
+  # ✨Thanks for stopping by ✨
   <div align="center">
 <img hight="200" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/103770244/166744549-fdec55ef-f30a-44d2-86f3-38796329ad24.gif">
 
