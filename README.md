@@ -78,7 +78,7 @@ If you want to reach out to me about automation, SecOps or dashboards. You can f
   
   # Thank you for stopping by!
   <div align="center">
-<img hight="300" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/103770244/166744549-fdec55ef-f30a-44d2-86f3-38796329ad24.gif">
+<img hight="200" width="800" alt="GIF" align="center" src="https://user-images.githubusercontent.com/103770244/166744549-fdec55ef-f30a-44d2-86f3-38796329ad24.gif">
 
 *************
 
