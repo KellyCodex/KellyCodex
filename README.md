@@ -11,7 +11,6 @@
 💻 I build automation, alerting, DFIR workflows, and dashboards in health tech environments.  
 ⚡ Currently learning: Python automation, incident response, and SIEM workflows.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/103770244/166720550-83fc3d54-a69e-42b8-a8d3-cee25a1792b3.gif">
 
 ## Skills & Tools
 Python | Bash | C# | PHP | GitHub Actions | SIEM | DFIR
