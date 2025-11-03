@@ -8,24 +8,24 @@
 
 # About Me :
 
-### ❄️I'm Kelly a Sec Ops Engineer from Minnesota❄️
+💻 I build automation, alerting, DFIR workflows, and dashboards in health tech environments.  
+⚡ Currently learning: Python automation, incident response, and SIEM workflows.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/103770244/166720550-83fc3d54-a69e-42b8-a8d3-cee25a1792b3.gif">
 
-### - Learning :
-- ✨ Automation & Alerting
-- ✨ DFIR Investigations
+## Skills & Tools
+Python | Bash | C# | PHP | GitHub Actions | SIEM | DFIR
 
-### - Hobbies : 
-- ✨ Twitch / Youtube 🎮
-- ✨ Anime 🌷
-- ✨ Reading books 📑
-- ✨ Doggos 🐶🐕
+## Projects
+- [Threat Enrichment Script](link) – parses alerts and enriches with threat intel
+- [SIEM Dashboard Automation](link) – automates report generation
+- [Incident Response Template](link) – markdown workflow for IR teams
+
 
 </br>
 </br>
 
-# Languages & Tools :
+
 </br>
 
 <p align="center">
